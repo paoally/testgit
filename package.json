@@ -1,0 +1,19 @@
+{
+  "name": "testgitproject",
+  "version": "1.0.0",
+  "description": "test node js and git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paoally/testgit.git"
+  },
+  "author": "Janewit Lertsinathichai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paoally/testgit/issues"
+  },
+  "homepage": "https://github.com/paoally/testgit#readme"
+}
